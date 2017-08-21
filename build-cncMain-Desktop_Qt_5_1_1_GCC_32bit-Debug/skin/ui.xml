@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<mmi version="1.0">
+    <mainUiRightBtnFile>文件</mainUiRightBtnFile>
+    <mainUiRightBtnParam>参数设置</mainUiRightBtnParam>
+    <mainUiRightBtnProduce>加工</mainUiRightBtnProduce>
+    <mainUiRightBtnProgramme>编程</mainUiRightBtnProgramme>
+    <labelCoordCmdPos>命令</labelCoordCmdPos>
+    <labelCoordActualPos>实际值</labelCoordActualPos>
+    <labelCoordLeftPos>剩余移动量</labelCoordLeftPos>
+    <labelInstructFeed>进给指令</labelInstructFeed>
+    <labelInstructActual>实际</labelInstructActual>
+    <labelInstructTime>Cycle Time</labelInstructTime>
+    <labelGasO2>氧气</labelGasO2>
+    <labelGasN2>氮气</labelGasN2>
+    <labelGasAir>空气</labelGasAir>
+    <labelGasHP>高压氮气</labelGasHP>
+    <labelTouchTablet>碰板</labelTouchTablet>
+    <labelTracer>Tracer</labelTracer>
+    <btnRunInfo>运行信息</btnRunInfo>
+    <btnGraphic>图形</btnGraphic>
+    <btnRunCode>运行代码</btnRunCode>
+    <btnCraft>工艺</btnCraft>
+    <btnDebug>调试</btnDebug>
+    <btnCoordSetting>坐标设置</btnCoordSetting>
+    <btnOperation>操作</btnOperation>
+    <btnCopy>复制</btnCopy>
+    <btnCut>剪切</btnCut>
+    <btnPaste>粘贴</btnPaste>
+    <btnDelete>删除</btnDelete>
+    <btnNewDir>新建文件夹</btnNewDir>
+    <btnOpenFile>打开文件</btnOpenFile>
+    <fileList>文件夹列表</fileList>
+    <btnFindReplace>查找/替换</btnFindReplace>
+    <btnJumpRow>跳转行</btnJumpRow>
+    <btnJumpHead>至开头</btnJumpHead>
+    <btnJumpEnd>至结尾</btnJumpEnd>
+    <btnSave>保存</btnSave>
+    <labelLineNum>行号：</labelLineNum>
+    <pBnOK>确定</pBnOK>
+    <pBnCancel>取消</pBnCancel>
+    <labelFind>查找：</labelFind>
+    <labelReplace>替换：</labelReplace>
+    <pBnFindForward>查找前一个</pBnFindForward>
+    <pBnFindNext>查找下一个</pBnFindNext>
+    <pBnRepalce>替换</pBnRepalce>
+    <pBnFindReplace>查找并替换</pBnFindReplace>
+    <pBnReplaceAll>替换所有</pBnReplaceAll>
+    <messageTip>提示</messageTip>
+    <messageNoLine>没有输入行号</messageNoLine>
+    <labelCoordExX2>X2</labelCoordExX2>
+    <labelCoordExX1>X1</labelCoordExX1>
+    <labelCoordExY>Y</labelCoordExY>
+    <labelCoordExZ>Z</labelCoordExZ>
+    <tipSocketLinking>正在连接服务端...</tipSocketLinking>
+    <tipSocketLinked>已连接到服务端</tipSocketLinked>
+</mmi>
+
