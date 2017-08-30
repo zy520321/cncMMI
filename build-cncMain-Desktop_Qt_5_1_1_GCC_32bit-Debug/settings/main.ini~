@@ -3,11 +3,11 @@ language=0804
 functionCount=5
 
 [connect]
-serverIP=10.0.11.79
+serverIP=127.0.0.1
 cmd.port=6000
 file.port=7000
-timeInterval=30
-timeRecv=20
+timeInterval=10
+timeRecv=30
 
 [widgetRect]
 w=1024
